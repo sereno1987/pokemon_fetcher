@@ -12,4 +12,6 @@ from requests import get
 from PIL import Image 
 from io import BytesIO
 
+and also its available in add requirements.txt file.
+
 
