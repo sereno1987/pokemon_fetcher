@@ -1,3 +1,4 @@
+#
 from guizero import App, TextBox, PushButton, Picture,error ,Text
 from pokebase import pokemon 
 from requests import get 
